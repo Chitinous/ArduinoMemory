@@ -1,6 +1,7 @@
 # ArduinoMemory
 
 Step 1
+
 Materials:
 - 1 Arduino
 - 4 LEDs

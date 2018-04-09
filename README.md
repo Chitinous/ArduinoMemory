@@ -24,4 +24,6 @@ Step 4
 
 Step 5
 
---> Play the game !
+--> Press the Yellow button for the Memory Mode
+--> Press the Red button for the Battle Mode
+--> Enjoy The Game !
